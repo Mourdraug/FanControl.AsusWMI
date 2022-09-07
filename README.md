@@ -4,7 +4,7 @@ Plugin for [FanControl](https://github.com/Rem0o/FanControl.Releases) providing 
 
 ## Installation
 
-1. Download the latest binaries from [AppVeyor](https://ci.appveyor.com/project/Mourdraug/fancontrol-asuswmi/build/artifacts)
+1. Download the latest binaries from [Releases](https://github.com/Mourdraug/FanControl.AsusWMI/releases)
 2. Copy the FanControl.AsusWMI.dll into FanControl's "Plugins" folder.
 
 ## Compatibility 
